@@ -1,0 +1,44 @@
+[11-Nov-2023 16:37:22 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:37:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:37:32 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:37:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:39:25 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:39:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:40:23 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:40:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:41:24 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:41:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:42:08 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:42:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:43:15 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:43:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:45:25 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:45:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:45:34 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:45:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 16:50:26 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 23
+[11-Nov-2023 16:50:31 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 23
+[11-Nov-2023 16:53:18 UTC] PHP Notice:  Undefined variable: response in /home/tolrgojs/public_html/demo/upload.php on line 31
+[11-Nov-2023 16:53:21 UTC] PHP Notice:  Undefined variable: response in /home/tolrgojs/public_html/demo/upload.php on line 31
+[11-Nov-2023 16:53:42 UTC] PHP Notice:  Undefined variable: response in /home/tolrgojs/public_html/demo/upload.php on line 31
+[11-Nov-2023 16:53:47 UTC] PHP Notice:  Undefined variable: response in /home/tolrgojs/public_html/demo/upload.php on line 31
+[11-Nov-2023 16:53:55 UTC] PHP Notice:  Undefined variable: response in /home/tolrgojs/public_html/demo/upload.php on line 31
+[11-Nov-2023 17:10:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tolrgojs/public_html/demo/config.php on line 10
+[11-Nov-2023 17:14:00 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 22
+[11-Nov-2023 17:14:01 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 22
+[11-Nov-2023 17:26:23 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:23 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:29 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:29 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:29 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:30 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:30 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:30 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:30 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:30 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:26:30 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:41:49 UTC] PHP Warning:  unlink(uploads/): Is a directory in /home/tolrgojs/public_html/demo/delete.php on line 12
+[11-Nov-2023 17:41:59 UTC] PHP Warning:  unlink(uploads/): Is a directory in /home/tolrgojs/public_html/demo/delete.php on line 12
+[11-Nov-2023 17:42:00 UTC] PHP Warning:  unlink(uploads/): Is a directory in /home/tolrgojs/public_html/demo/delete.php on line 12
+[11-Nov-2023 17:46:40 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tolrgojs/public_html/demo/upload.php on line 20
+[11-Nov-2023 17:55:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tolrgojs/public_html/demo/config.php on line 10
